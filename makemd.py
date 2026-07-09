@@ -5,8 +5,8 @@ This file contains a list of my favourite music in a nice, human readable format
 # My Favourite Music
 ---
 
-|---|---|---|---|
 |ID|NAME|AUTHOR|GENRE|
+|---|---|---|---|
 """
 
 with open("songs.csv", "r") as f:
@@ -18,7 +18,8 @@ for line in csv_file:
         continue
     id,name,author,genre = line.strip().split(",")
     README += f"|{id}|**{name}**|{author}|{genre}|\n"
-README += "|---|---|---|---|"
+
+
 
 print(README)
 
