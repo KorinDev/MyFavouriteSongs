@@ -8,3 +8,38 @@ This file contains a list of my favourite music in a nice, human readable format
 |1|**Pas de Deux**|Tchaikovsky|Classical|
 |2|**Serenade**|Schubert|Classical|
 |3|**March (Queen Mary Funeral)**|Purcell|Classical|
+|4|**One Ring to Rule Them All**|Howard Store|Soundtrack|
+|5|**Unnamed Shopping Muzak**|Josh Augustin|Soundtrack(?)|
+|6|**Mipha's Theme**|Nintendo|Soundtrack|
+|7|**Kass's Theme**|Nintendo|Soundtrack|
+|8|**Cara Mia Addio**|Aperature Science Psychoacoustic Laboratories|Soundtrack|
+|9|**Midnight**|Swingrowers|Electro Swing|
+|10|**Lone Digger**|Caravan Palace|Electro Swing|
+|11|**Where is smiley?**|Serani Poji|Pop(?)|
+|12|**Otsukare Summer**|Halcali|Pop|
+|13|**Make debut!**|Umamusume|Soundtrack|
+|14|**ALL MY FELLAS**|Frizk|???|
+|15|**Super Sonic Racing**|SEGA|Soundtrack|
+|16|**Butterfly**|Swingrovers|Electro Swing|
+|17|**All Night**|Parov Stelar|Electro Swing|
+|18|**Lost In The Rhythm**|Jamie Berry ft. Octavia Rose|Electro Swing|
+|19|**Heartaches**|Al Bowlly|???|
+|20|**We'll meet Again**|Vera Lynn|???|
+|21|**Rises the Moon**|Iiana flores|???|
+|22|**Comfort Chain**|Instupendo|???|
+|23|**Clair de Lune**|Debussy|Classical|
+|24|**Vs. Susie**|Toby Fox|Soundtrack|
+|25|**Girls Legend U**|Umamusume|Soundtrack|
+|26|**Hocus Pocus**|Focus|Rock(?)|
+|27|**Soul Bossa Nova**|Quincy Jones|Bossa Nova|
+|28|**Jingle Jangle Jingle**|Kay Kyser|???|
+|29|**Ain't That a Kick in the Head**|Dean Martin|???|
+|30|**A man without love**|Engelbert Humperdinck|???|
+|31|**What You Won't Do For Love**|Bobby Caldwell|???|
+|32|**Mr. Sandman**|The Chordettes|???|
+|33|**Beyond the Sea**|Bobby Darin|???|
+|34|**Sakkijarven Polkka**|???|Polkka|
+|35|**Funiculi Funicula**|Cantori della Montagna|???|
+|36|**Czerwone maki na Monte Cassino**|Alfred Shutz/Feliks Konarski|???|
+|37|**Rota**|Maria Konopnicka|???|
+|38|**In the Hall of the Mountain King**|Gried|Classical|
