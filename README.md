@@ -43,3 +43,25 @@ This file contains a list of my favourite music in a nice, human readable format
 |36|**Czerwone maki na Monte Cassino**|Alfred Shutz/Feliks Konarski|???|
 |37|**Rota**|Maria Konopnicka|???|
 |38|**In the Hall of the Mountain King**|Gried|Classical|
+|39|**CITRUS!**|Iianhua|???|
+|40|**Delight**|Jamie Berry Ft. Octavia Rose|Electro Swing|
+|41|**Singin' in the Rain**|Singing in the Rain|Soundtrack|
+|42|**Monastery Bells**|???|Classical|
+|43|**Mary's Theme**|Stelvio Cirpani|Soundtrack|
+|44|**Mr. Blue Sky**|Electric Light Orchestra|???|
+|45|**Dance of the Knights**|Prokofiev|Classical|
+|46|**Lacrimosa**|Wolfgang Amadeus Mozart|Classical|
+|47|**Valse Sentimentale**|Tchaikovsky|Classical|
+|48|**No. 1 Molto Allegro**|Wolfgang Amadeus Mozard|Classical|
+|49|**The Flight of the Bumble-bee**|Nikolai Rimsky-Korsakov|Classical|
+|50|**Bolero**|Maurice Ravel|Classical|
+|51|**William Tell Overture**|Rossini|Classical|
+|52|**Verdi: Rigoletto Act III: La donna e mobile**|Lucioane Pavarotti|Classical|
+|53|**Rodeo: 1. Buckaroo Holiday**|Aaron Copland|Classical(no idea)|
+|54|**Sing Sing Sing**|Benny Goodman|Swing|
+|55|**Prelude and Rooftop**|Bernard Herrmann|Soundtrack|
+|56|**La Martiza**|Sylvie Vartan|???|
+|57|**Make your own kind of Music**|Mama Cass Elliot|???|
+|58|**Hopelessly Devoted To You**|Olivia Netwon-John|Soundtrack|
+|59|**Can't take my eyes off you**|Frankie Valli and the Four Seasons|???|
+|60|**Flyday Chinatown**|Yasuha|???|

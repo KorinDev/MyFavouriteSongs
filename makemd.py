@@ -16,6 +16,10 @@ with open("songs.csv", "r") as f:
 for line in csv_file:
     if line.startswith("id"):
         continue
+
+    #debug print line
+    #print(line)
+
     id,name,author,genre = line.strip().split(",")
     README += f"|{id}|**{name}**|{author}|{genre}|\n"
 
